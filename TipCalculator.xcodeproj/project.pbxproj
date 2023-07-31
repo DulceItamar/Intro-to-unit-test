@@ -34,7 +34,6 @@
 		701049252A770F2E001C0BAE /* TipCalculatorTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TipCalculatorTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		701049272A770F2E001C0BAE /* TipCalculatorTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TipCalculatorTests.swift; sourceTree = "<group>"; };
 		7010492E2A770FC5001C0BAE /* CalculationTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculationTest.swift; sourceTree = "<group>"; };
-		708F22792A7751CA00E84809 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,7 +79,6 @@
 				701049152A770907001C0BAE /* ContentView.swift */,
 				701049172A770908001C0BAE /* Assets.xcassets */,
 				701049192A770908001C0BAE /* Preview Content */,
-				708F22792A7751CA00E84809 /* README.md */,
 			);
 			path = TipCalculator;
 			sourceTree = "<group>";
